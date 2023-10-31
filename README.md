@@ -20,6 +20,9 @@
 *- email.mime.multipart*\
 *- email.text*
 
-**Версии:**
-*-Python 3.11.2*
+**Версии:**\
+*-Python 3.11.2*\
 *-PostgreSQL 14*
+
+**Пример письма:**\
+![](https://github.com/Stivy101/Script-Buh-docs-email-sender/blob/main/Screen%20of%20letter.PNG)

@@ -17,4 +17,4 @@
 *- sqlalchemy*\
 *- smtplib*\
 *- email.mime.multipart*\
-*- email.text*\
+*- email.text*

@@ -12,9 +12,9 @@
 3. Для иммитации работы бухгалтера, вносящего записи в БД, в репозитории лежит скрипт "Скрипт для наполнения БД из csv", заполняющий БД данными о документах.
 
 **Использованные модули Python:**
-*- pathlib*
-*- pandas*
-*- sqlalchemy*
-*- smtplib*
-*- email.mime.multipart*
-*- email.text*
+*- pathlib*\
+*- pandas*\
+*- sqlalchemy*\
+*- smtplib*\
+*- email.mime.multipart*\
+*- email.text*\
